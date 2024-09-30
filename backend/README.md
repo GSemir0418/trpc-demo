@@ -8,3 +8,7 @@ npm install -D nodemon
     "build": "tsc",
     "dev": "nodemon --exec ts-node index.ts"
 },
+
+npm install @trpc/server zod
+npm i -D @types/cors
+npm i cors 
